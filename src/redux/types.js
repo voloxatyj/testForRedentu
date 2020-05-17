@@ -1,0 +1,7 @@
+export const SET_TEXT = 'SET_TEXT'
+export const SET_HOME = 'SET_HOME'
+export const SET_DETAILS = 'SET_DETAILS'
+export const DELETE_TEXT = 'DELETE_TEXT'
+export const CLEARE_ITEM = 'CLEARE_ITEM'
+export const SHOW_JSON_FILES = 'SHOW_JSON_FILES'
+export const NOT_SHOW_JSON_FILES = 'NOT_SHOW_JSON_FILES'
